@@ -12,15 +12,6 @@ A stunning, modern recipe discovery platform with smooth animations, beautiful f
 - **🎯 YouTube Integration** - Direct links to step-by-step cooking videos
 - **⚡ Fast & Lightweight** - No heavy frameworks, pure vanilla JavaScript
 
-## 🚀 Quick Start
-
-1. Clone the repository:
-```bash
-git clone https://github.com/YOUR_USERNAME/recipeportal.git
-cd recipeportal
-```
-
-2. Open `index.html` in your browser (no server needed!)
 
 ## 🛠️ Technologies Used
 
@@ -69,7 +60,7 @@ cd recipeportal
 
 ## 🌍 Live Demo
 
-Visit the [Live Demo](https://YOUR_USERNAME.github.io/recipeportal) to explore recipes!
+Visit the [Live Demo](https://recipiportal.vercel.app/) to explore recipes!
 
 ## 📄 License
 
